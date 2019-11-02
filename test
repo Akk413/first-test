@@ -1,0 +1,8 @@
+#icnlude <stdio.h>
+
+int main(void)
+{
+  printf("hollow github");
+  
+  return 0;
+}
